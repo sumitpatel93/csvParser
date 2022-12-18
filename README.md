@@ -19,10 +19,10 @@ Let us assume you are a crypto investor. You have made transactions over a perio
 Make sure to copy the csv file inside the `src` folder 
 
 1. Git clone repo with following command
-    `git clone https://github.com/sumitpatel93/propine`
+    `git clone https://github.com/sumitpatel93/csvParser`
 
 2. cd to the working directory of repo.
-    `cd ~/propine/src`
+    `cd ~/csvParser/src`
 
 3. Install the required dependencies with.
    `npm i`
